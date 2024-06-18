@@ -7,6 +7,7 @@ public class Hallo {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hallo Salzburg");
+		System.out.println("Hallo HTL Hallein");
 	}
 
 }
