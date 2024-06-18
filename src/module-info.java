@@ -1,5 +1,5 @@
 /**
- * Hallo HTL Hallein
+ * Hallo HTL Salzburg
  */
 /**
  * @author thoma
