@@ -1,5 +1,5 @@
 /**
- * Hallo Hallein
+ * Hallo HTL Hallein
  */
 /**
  * @author thoma
