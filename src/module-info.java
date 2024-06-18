@@ -1,5 +1,5 @@
 /**
- * Hallo HTL Wien
+ * Hallo HAK Hallein
  */
 /**
  * @author thoma
