@@ -8,6 +8,8 @@ public class Hallo {
 
 		System.out.println("Hallo Hallein");
 
+
+		System.out.println("Hallo HTL Hallein");
 	}
 
 }
